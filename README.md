@@ -1,24 +1,10 @@
-# README
+Mytinerary
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Task: Creating a list using Rails. 
 
-Things you may want to cover:
+This listing application allows you to edit, destroy, and create new tasks in
+a list format. 
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
